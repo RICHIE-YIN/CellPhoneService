@@ -22,11 +22,6 @@ public class CellPhoneApp {
         System.out.println("carrier: " + cell.getCarrier());
         System.out.println("phone number: " + cell.getPhoneNumber());
         System.out.println("owner: " + cell.getOwner());
-//        int index = 0;
-//        while(cell <= index) {
-//            System.out.println(cell);
-//            index++;
-//        }
     }
 
 
